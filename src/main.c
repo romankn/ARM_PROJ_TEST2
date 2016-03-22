@@ -56,7 +56,7 @@
 #pragma GCC diagnostic ignored "-Wreturn-type"
 
 int
-main(int argc, char* argv[]) // Main loop once again
+main(int argc, char* argv[]) // Main loop once again 2345
 {
   // Send a greeting to the trace device (skipped on Release).
   trace_puts("Hello ARM World!");
